@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GearGang/static/css/main.f4f4445e.css",
+    "main.js": "/GearGang/static/js/main.2072f95e.js",
+    "index.html": "/GearGang/index.html",
+    "main.f4f4445e.css.map": "/GearGang/static/css/main.f4f4445e.css.map",
+    "main.2072f95e.js.map": "/GearGang/static/js/main.2072f95e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4f4445e.css",
+    "static/js/main.2072f95e.js"
+  ]
+}

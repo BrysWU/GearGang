@@ -3,13 +3,19 @@
   "name": "Community Car App",
   "icons": [
     {
-      "src": "favicon.ico",
-      "type": "image/x-icon",
-      "sizes": "64x64"
+      "src": "car512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "car192.png",
+      "sizes": "192x192",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#1976d2",
-  "background_color": "#ffffff"
+  "background_color": "#1565c0",
+  "theme_color": "#1565c0",
+  "orientation": "portrait-primary"
 }
