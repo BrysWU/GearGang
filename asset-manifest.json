@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GearGang/static/css/main.f4f4445e.css",
-    "main.js": "/GearGang/static/js/main.2072f95e.js",
+    "main.js": "/GearGang/static/js/main.c455ae26.js",
     "index.html": "/GearGang/index.html",
     "main.f4f4445e.css.map": "/GearGang/static/css/main.f4f4445e.css.map",
-    "main.2072f95e.js.map": "/GearGang/static/js/main.2072f95e.js.map"
+    "main.c455ae26.js.map": "/GearGang/static/js/main.c455ae26.js.map"
   },
   "entrypoints": [
     "static/css/main.f4f4445e.css",
-    "static/js/main.2072f95e.js"
+    "static/js/main.c455ae26.js"
   ]
 }
